@@ -81,12 +81,7 @@ function blossom_travel_register_required_plugins() {
 			'name'      => __( 'HTML5 Maps', 'blossom-travel' ),
 			'slug'      => 'html5-maps',
 			'required'  => false,
-		),
-		array(
-			'name'      => __( 'AffiliateX', 'blossom-travel' ),
-			'slug'      => 'affiliatex',
-			'required'  => false,
-		),
+		)
 	);
 
 	/*
